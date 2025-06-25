@@ -1,0 +1,1 @@
+El desarrollo fué hecho en javascript.  Esta siendo usado en node v20.11.0. El Ide de trabajo es visual code 1.99.3
