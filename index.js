@@ -43,9 +43,6 @@ const sum = (array, requiredSum) => {
     }
     return false
 
-
-
-
 }
 
 const dataResult = sum([1,2,4,4], 8)
